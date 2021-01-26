@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T07:34:35.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.2.4" etag="erKho02S91p15UmVucIb" type="github"><diagram id="T1OUS5GT2DpbDmX-ePFx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-26T07:39:50.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="xJIIXZNb5vNmw69jiQZm" version="14.2.4" type="github">
+  <diagram id="T1OUS5GT2DpbDmX-ePFx" name="Page-1">
+    <mxGraphModel dx="539" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bqvyXEgNlpFHq4XotN-X-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="80" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bqvyXEgNlpFHq4XotN-X-2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="115" width="185" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bqvyXEgNlpFHq4XotN-X-3" value="Mercoledi 27 gennaio&lt;br&gt;&lt;b&gt;21:00-22:00&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;h5 style=&quot;text-align: right&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Sala lettura 1&lt;/b&gt;&lt;/h5&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="bqvyXEgNlpFHq4XotN-X-2">
+          <mxGeometry width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bqvyXEgNlpFHq4XotN-X-4" value="Menu Item 2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="bqvyXEgNlpFHq4XotN-X-2">
+          <mxGeometry y="80" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bqvyXEgNlpFHq4XotN-X-5" value="Menu Item 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="bqvyXEgNlpFHq4XotN-X-2">
+          <mxGeometry y="160" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bqvyXEgNlpFHq4XotN-X-6" value="Menu Item 4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="bqvyXEgNlpFHq4XotN-X-2">
+          <mxGeometry y="240" width="185" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
